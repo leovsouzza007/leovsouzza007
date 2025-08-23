@@ -1,9 +1,10 @@
 # 💫 About Me:
-🔭  Sou estudante universitário de programação<br>👯 Estou a proucura de estagio 
+🔭  Sou estudante universitário de programação (segundo periodo)<br>👯 Estou a proucura de estagio<br>👨‍💻Olhe meus projetos
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leo_vsouzza) 
+[![LinkEdin](https://www.linkedin.com/in/leonardo-vieira-de-souza-004714357/)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
