@@ -7,7 +7,7 @@
 [![LinkEdin](https://www.linkedin.com/in/leonardo-vieira-de-souza-004714357/)
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![PHP] ![PYTON] ![C++](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=leovsouzza007&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leovsouzza007&theme=tokyonight&hide_border=false)<br/>
