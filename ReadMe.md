@@ -1,6 +1,6 @@
 # 👨‍💻 About Me:
-🔭 Sou estudante universitário de programação (2º período) <br>  
-👯 Gosto muito de estudar programaçao e estou sempre buscando conhecimento. <br>  
+🔭 Sou estudante universitário de programação (3º período) <br>  
+📖 Gosto muito de estudar programaçao e estou sempre buscando conhecimento. <br>  
 👨‍💻 Confira meus projetos no GitHub  
 
 ---
